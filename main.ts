@@ -19,6 +19,3 @@ input.onButtonEvent(Button.B, input.buttonEventClick(), function () {
         # . . . #
         `)
 })
-basic.forever(function () {
-	
-})
